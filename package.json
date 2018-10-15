@@ -1,6 +1,6 @@
 {
   "name": "bfx-api-node-plugin-managed-candles",
-  "version": "2.0.0-beta.1",
+  "version": "1.0.0",
   "description": "Maintains local candle datasets for the Bitfinex Node API",
   "engines": {
     "node": ">=7"
@@ -36,8 +36,8 @@
     "bluebird": "^3.5.1",
     "debug": "^2.2.0",
     "lodash": "^4.17.4",
-    "bfx-api-node-models": "bitfinexcom/bfx-api-node-models",
-    "bfx-api-node-core": "bitfinexcom/bfx-api-node-core",
-    "bfx-hf-util": "bitfinexcom/bfx-hf-util"
+    "bfx-api-node-models": "^1.0.0",
+    "bfx-api-node-core": "^1.0.0",
+    "bfx-hf-util": "^1.0.0"
   }
 }
