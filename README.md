@@ -36,7 +36,7 @@ mgr.onWS('managed:candles', {}, (candles) => {
 
 ### Docs
 
-For an executable example, see `examples/usage.js`
+For an executable example, [see `examples/usage.js`](/examples/usage.js)
 
 ### Example
 ```js
