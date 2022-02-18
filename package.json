@@ -36,8 +36,8 @@
     "standard": "^14.1.0"
   },
   "dependencies": {
-    "bfx-api-node-core": "^1.1.0",
-    "bfx-api-node-models": "^1.0.12",
+    "bfx-api-node-core": "^1.5.8",
+    "bfx-api-node-models": "^1.6.2",
     "bfx-hf-util": "git+https://github.com/bitfinexcom/bfx-hf-util.git#v1.0.12",
     "bluebird": "^3.5.5",
     "debug": "^4.1.1",
